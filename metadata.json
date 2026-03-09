@@ -1,0 +1,5 @@
+{
+  "name": "Veritas Fact Checker",
+  "description": "Real-time fact checking application using Gemini with Google Search grounding.",
+  "requestFramePermissions": []
+}
