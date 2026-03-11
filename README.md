@@ -6,4 +6,5 @@
 # We are commited continuous improvement regarding voice messaging feature. Allow video calls feature and Group chat with calls and video sharing for meeting purposes also 
 
 ## New features are just a fingertips ago;
-The users can be able to upload images and analyse through the application ai model whether its true of false.
+1. The users can be able to upload images and analyse through the application ai model whether its true of false.
+2. The user can talk directly with model and discuss about the affairs and verification of a news and info through vice chat 
