@@ -8,3 +8,4 @@
 ## New features are just a fingertips ago;
 1. The users can be able to upload images and analyse through the application ai model whether its true of false.
 2. The user can talk directly with model and discuss about the affairs and verification of a news and info through vice chat 
+3. The Model can also check the facts through links whether its true or false across the websites.
